@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nudibranch599! (Global Developer Relations @DigitalOcean)
-- 🎙️ I run DigitalOcean [Tech Talks](https://do.co/techtalks] and [Cloud Chats](https://do.co/cloudchats-playlist)
+- 🎙️ I run DigitalOcean [Tech Talks](https://do.co/techtalks) and [Cloud Chats](https://do.co/cloudchats-playlist)
 - 💞️ I love building community + fostering startup growth
 - 📈 Would you like to give a technical demo that helps a software developer or SaaS business grow and scale? Give me a shout! 
 - 📫 Email: stse@digitalocean.com
